@@ -1,0 +1,2 @@
+! A popup notice to conveniently remind you to log in with Google--always, everywhere, and all of the time.
+##iframe[src*="accounts.google.com"]
