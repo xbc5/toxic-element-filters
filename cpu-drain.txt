@@ -1,2 +1,11 @@
+! PAYONEER ----------------------------------------------------------
 ! Circles that move around and consume 100% CPU.
 www.payoneer.com##.universe-holder
+! Circles that flash in and out of existence for no reason.
+www.payoneer.com##dotlottie-player
+! A moving background. Payoneer is not a VOD service.
+www.payoneer.com##video
+! A carousel, because why not?
+www.payoneer.com##.slick-track
+! I don't care about your stories.
+www.payoneer.com##.stories-slider
